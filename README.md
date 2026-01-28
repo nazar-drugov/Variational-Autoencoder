@@ -16,3 +16,8 @@ Examples of reconstructed images:
 
 <img width="140" height="140" alt="media_images_images_999_1cd31a15a817f6d98182" src="https://github.com/user-attachments/assets/5e3f3bc7-ac84-4cff-a21b-14d36f8c2fa7" />
 <img width="140" height="140" alt="media_images_images_999_33f5bc4f1206f64a1bd8" src="https://github.com/user-attachments/assets/2971bde1-d2fb-4207-9f19-663d879f8a8b" />
+
+
+### Credits
+I built this project while independently working through the ARENA curriculum on technical AI safety.\
+Many thanks to the ARENA team for creating the program and providing the .utils files used here!
